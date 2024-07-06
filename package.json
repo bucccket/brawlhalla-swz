@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itselectroz/brawlhalla-swz.git"
+    "url": "git+https://github.com/bucccket/brawlhalla-swz.git"
   },
-  "author": "itselectroz",
+  "author": "itselectroz, bucccket",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itselectroz/brawlhalla-swz/issues"
+    "url": "https://github.com/bucccket/brawlhalla-swz/issues"
   },
-  "homepage": "https://github.com/itselectroz/brawlhalla-swz#readme",
+  "homepage": "https://github.com/bucccket/brawlhalla-swz#readme",
   "devDependencies": {
     "@types/node": "^17.0.21",
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "abc-disassembler": "github:itselectroz/abc-disassembler",
-    "swf-parser": "github:itselectroz/swf-parser"
+    "abc-disassembler": "github:bucccket/abc-disassembler",
+    "swf-parser": "github:bucccket/swf-parser"
   }
 }
